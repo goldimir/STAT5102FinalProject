@@ -8,9 +8,7 @@ Created on Thu Feb 17 09:06:37 2022
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import axes3d, Axes3D
 from matplotlib import cm
-import yfinance as yf  
 import pandas as pd
-import quandl
 import numpy as np
 import scipy.stats
 import statsmodels.api as sm
