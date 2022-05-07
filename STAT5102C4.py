@@ -27,7 +27,6 @@ from scipy import linalg
 from statsmodels.regression import linear_model
 from statsmodels.stats.anova import anova_lm
 from numpy import linalg as LA
-import stemgraphic
 from numpy.random import random
 from scipy.stats import rayleigh
 import random
