@@ -34,7 +34,6 @@ from statsmodels.compat import lzip
 import statsmodels.stats.api as sms
 from scipy.stats import zscore
 from numpy import linalg as LA
-import stemgraphic
 from IPython.display import Image
 import STAT5102C2 as C2
 
