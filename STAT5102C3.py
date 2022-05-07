@@ -6,9 +6,7 @@ Created on Wed Feb 16 19:17:27 2022
 """
 import matplotlib.pyplot as plt
 from mpl_toolkits.mplot3d import axes3d, Axes3D
-import yfinance as yf  
 import pandas as pd
-import quandl
 import numpy as np
 import scipy.stats
 import statsmodels.api as sm
